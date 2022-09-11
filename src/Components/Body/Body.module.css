@@ -23,6 +23,32 @@
   margin: 25px 20px;
   line-height: 30px;
 }
-.yakh1{
+.yakh2{
     width: 80%;
+ height: 300px;
 }
+.jabeja{
+  width: 80%;
+  border-radius: 10px;
+
+}
+.slide h3{
+  line-height: 40px;
+  text-align: center;
+}
+/* .fcicon{
+border-radius: 50px;
+  height: 70px;
+  width: 70px;
+  background-color:rgb(17, 254, 17);
+margin-top: 20px;
+margin-top: 10px;
+position: absolute;
+z-index: 1;
+
+}
+.icon{
+  margin: 10px;
+  font-size: 50px;
+} */
+
