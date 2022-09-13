@@ -52,6 +52,9 @@ const Body = () => {
 </p>
 
 <img className={bodycss.jabeja} src={jabeja}></img>
+
+<button></button>
+
       </div>
      
     </div>
