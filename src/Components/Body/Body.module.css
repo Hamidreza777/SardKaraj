@@ -36,19 +36,16 @@
   line-height: 40px;
   text-align: center;
 }
-/* .fcicon{
-border-radius: 50px;
+.call{
+  font-size: 30px;
   height: 70px;
   width: 70px;
-  background-color:rgb(17, 254, 17);
-margin-top: 20px;
-margin-top: 10px;
-position: absolute;
-z-index: 1;
-
+  background-color: green;
+  border-radius: 50%;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.icon{
-  margin: 10px;
-  font-size: 50px;
-} */
-
