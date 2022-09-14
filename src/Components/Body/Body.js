@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import bodycss from "./Body.module.css";
 import yakhchal1 from "../../Pic/yakhchal 1.png";
 const Body = () => {
@@ -26,6 +26,7 @@ const Body = () => {
 طبق دفترچه راهنمای استفاده از یخچال  این دما در زمستان برای یخچال باید 2 و برای فریزر 16_ باشد.</p>
       </div>
     </div>
+
   );
 };
 
