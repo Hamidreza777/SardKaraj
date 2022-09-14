@@ -23,6 +23,29 @@
   margin: 25px 20px;
   line-height: 30px;
 }
-.yakh1{
+.yakh2{
     width: 80%;
+ height: 900px;
+}
+.jabeja{
+  width: 80%;
+  border-radius: 10px;
+
+}
+.slide h3{
+  line-height: 40px;
+  text-align: center;
+}
+.call{
+  font-size: 30px;
+  height: 70px;
+  width: 70px;
+  background-color: green;
+  border-radius: 50%;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
