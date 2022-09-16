@@ -3,7 +3,7 @@ import bodycss from "./Body.module.css";
 import yakhchal1 from "../../Pic/yakhchal 1.png";
 
 import jabeja from "../../Pic/jabeja.jpg"
-import { BiPhoneCall } from "react-icons/bi";
+
 
 const Body = () => {
   return (
@@ -53,11 +53,10 @@ const Body = () => {
 
 <img className={bodycss.jabeja} src={jabeja}></img>
 
-<button></button>
+
 
       </div>
 
-      <a href="tel:02636778250" className={bodycss.call}> <BiPhoneCall/></a>
 
       </>
 
