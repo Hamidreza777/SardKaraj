@@ -112,7 +112,7 @@ const Body = () => {
 
 
 
-        <img className={bodycss.jabeja} src={jabeja}></img>
+       
 
 
         <button></button>
