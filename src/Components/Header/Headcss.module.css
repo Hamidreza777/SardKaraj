@@ -9,12 +9,15 @@
 }
 
 header {
+  z-index: 100;
   background-color: #7352D5;
   height: 70px;
   width: 100%;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+  position: fixed;
+  border-radius: 0px 0px 50px 50px;
 }
 nav {
   background-color: #9484c3;
@@ -49,7 +52,7 @@ display: none;
 }
 
 .tel p{
-  color: #cce1e1;
+  color: #c8e2e2;
 }
 input{
     margin-left: 10px;
@@ -95,4 +98,8 @@ align-items: center;
 
 }
   
+}
+.mdcall{
+  color: rgb(113, 28, 28);
+  font-size: 30px;
 }

@@ -5,15 +5,16 @@
   width: 100%;
   height: 300px;
   padding: 15px 0px;
+  position: relative;
+  top: 70px;
 }
-.slide H1{
-    font-size: 20px;
+.slide H1 {
+  font-size: 20px;
+}
 
-  }
-
-.slide h2{
-    line-height: 40px;
-    text-align: center;
+.slide h2 {
+  line-height: 40px;
+  text-align: center;
 }
 
 .slide p {
@@ -23,16 +24,26 @@
   margin: 25px 20px;
   line-height: 30px;
 }
-.yakh2{
-    width: 80%;
- height: 900px;
+.yakh2 {
+  width: 80%;
+  height: 300px;
 }
-.jabeja{
+.jabeja {
   width: 80%;
   border-radius: 10px;
-
 }
-.slide h3{
+.slide h3 {
   line-height: 40px;
   text-align: center;
 }
+<<<<<<< HEAD
+=======
+
+
+@media (max-width: 670px) {
+  .slide {
+    position: relative;
+    top: 210px;
+  }
+}
+>>>>>>> c8bedd2db09afacae77e57cd872d199a09e4a7ae
