@@ -6,7 +6,6 @@ import yakhchal1 from "../../Pic/yakhchal 1.png";
 import jabeja from "../../Pic/jabeja.jpg"
 
 
-import jabeja from "../../Pic/jabeja.jpg";
 import { BiPhoneCall } from "react-icons/bi";
 
 const Body = () => {
